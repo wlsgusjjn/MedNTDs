@@ -86,7 +86,7 @@ This two-stage structure ensures that MedGemma is not used as an unconstrained g
 
 # ⚙️ Technical details
 
-## 🧪 A. Model Fine-tuning
+## 🧪 A. [Model Fine-tuning](./Fine-tuning/medgemma_fine_tuning.ipynb)
 
 We addressed the "Data Scarcity" problem in NTDs by creating a synthetic and augmented dataset. Using Unsloth/LoRA, we achieved a significant performance boost in diagnostic accuracy compared to the pre-trained MedGemma model.
 
