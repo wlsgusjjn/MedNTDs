@@ -1,0 +1,47 @@
+name: medntds
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  ffi: ^2.1.2
+  path_provider: ^2.1.5
+  permission_handler: ^12.0.1
+  image_picker: ^1.2.1
+  image: ^4.7.2
+  camera: ^0.11.3+1
+  path: ^1.9.1
+  camera_windows: ^0.2.6+4
+  file_picker: ^10.3.10
+  flutter_markdown_plus: ^1.0.7
+  sqflite: ^2.4.2
+  sqflite_common_ffi: ^2.4.0+2
+  sqlite3_flutter_libs: ^0.6.0+eol
+  intl: ^0.20.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/docs/buruli-ulcer/
+    - assets/docs/cutaneous-leishmaniasis/
+    - assets/docs/leprosy/
+    - assets/docs/lymphatic-filariasis/
+    - assets/docs/mycetoma/
+    - assets/docs/scabies/
+    - assets/docs/tungiasis/
+    - assets/docs/yaws/
