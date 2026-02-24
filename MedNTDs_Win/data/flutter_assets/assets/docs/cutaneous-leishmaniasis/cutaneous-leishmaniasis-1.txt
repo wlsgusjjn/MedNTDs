@@ -1,0 +1,44 @@
+Infectious agent(s)
+Protozoan parasites [1]: 1) Leishmania major; 2) L. tropica; 3) L. infantum (very rare)
+
+WHO case definition
+Suspected case
+A person showing clinical signs (skin lesions). A papule appears, which may enlarge to become an indolent ulcerated nodule or plaque. The sore remains in this stage for a variable time before self healing and typically leaves a depressed scar. Other atypical forms may occur.
+
+Confirmed case
+A person showing clinical signs (skin lesions) with parasitological confirmation of the diagnosis (positive smear or culture from the skin lesion).
+
+Mode of transmission              
+Mainly, as a vector-borne disease through bite of infective female phlebotomines (sandflies). L. major is transmitted by Phlebotomus papatasi from the animal reservoir to humans. L. tropica is transmitted by P. sergenti from person to person.
+
+Very rarely, L. tropica through transfusion.
+
+Incubation period   
+L. major:  At least one week. Usually less than 4 months.
+L. tropica: At least one week. Usually 2–8 months.
+Communicability period
+Not directly transmitted from reservoir to person, but infectious to sandflies as long as parasites remain in lesions in untreated cases, usually a few months to 2 years.
+Transmission is seasonal through adult sandflies. P. sergenti in Aleppo appears generally between May and October, with a usual peak in June and another in September.
+P. papatasi appears generally mainly in September–October.
+
+The main reservoirs of Leishmania major are rodents, gerbils, (e.g. Psammomys obesus, Meriones spp). Humans are the main reservoir for L. tropica.
+Those who develop the disease usually present lifelong immunity after lesions due to L. major or L. tropica heal.
+The disease is self-curing in 2-8 months for L. major lesions and 1 year or much longer for L tropica.
+Risk factors
+Lack of immunity against the parasite (Leishmania). Very high risk especially in areas lacking of herd immunity 
+High exposure to infective sandfly bites
+Conducive environment to high contact human-infective vector-reservoir
+Control and preventive measures
+
+In all patients lesions should be washed with clean water and soap, then the lesion will be covered by a dressing (gauze and tape) to be changed three or four times per week, which facilitates healing and prevents the creation of a sticky crust.
+
+Prevention and control measures
+
+Avoid patients becoming a source of parasites to sandflies by covering the lesions (wash/dressing) and using insecticide-treated bed nets [5].
+Avoid healthy people acquiring the disease by using insecticide-treated bed nets [6].
+Ensure active case finding to allow early diagnosis and prompt treatment, especially for cases due to L. tropica.
+Physically modify sandfly breeding and resting sites,  in specific contexts, mainly for P. papatasi, by destroying the burrows of the gerbil or the specific plants eaten by certain rodents.
+Eliminate sandfly breeding sites such rubble, rubbish heaps or wall cracks, especially in urban areas.
+Strengthen or establish the surveillance system to assess disase trends.
+Create a multisectoral coordination mechanism, especially in L. major endemic areas.
+No vaccine is currently availa
