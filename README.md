@@ -130,7 +130,7 @@ We selected the LoRA Epoch 1 configuration as our final deployment model for the
 
 ## 🛠 C. Deployment Challenges & Solutions
 
-### Data Feasibility: Overcoming NTD Data Scarcity
+### Data Feasibility: Overcoming [NTD Data](https://www.kaggle.com/datasets/wlsgusjin/ntds-dataset-final/) Scarcity
 
 Neglected Tropical Diseases (NTDs) suffer from a critical lack of public datasets—a "data desert." We overcame this by custom-curating a specialized dataset. To ensure reliability in real-world African settings, we applied data augmentation, focusing on diverse skin tones and varied lighting conditions. This process moved the project beyond benchmarking, achieving high clinical robustness in underrepresented demographics.
 
