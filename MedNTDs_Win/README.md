@@ -72,4 +72,4 @@ To view previous results, click the **History** button in the top-right corner.
 
 All MedNTDs models (GGUF, LoRA adapters, and related files) are available on the Hugging Face repository:
 
-👉 [https://huggingface.co/YOUR_HF_LINK](https://huggingface.co/wlsgusjjn/MedNTDs/tree/main)
+👉 [https://huggingface.co/wlsgusjjn/MedNTDs](https://huggingface.co/wlsgusjjn/MedNTDs/tree/main)
